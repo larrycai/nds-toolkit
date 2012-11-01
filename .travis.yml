@@ -22,4 +22,4 @@ script:
 
 # Only track the inbound branch.
 branches:
-  only: inbound
+  only: develop
